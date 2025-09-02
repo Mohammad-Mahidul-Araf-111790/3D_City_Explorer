@@ -1,3 +1,4 @@
 # 3D_City_Explorer
 
+Detailed Explanation of "3D City Explorer" Game project of CSE423 (Computer Graphics) OpenGL Python Lab project
 https://docs.google.com/document/d/1Cv1X5irT_DJdw11qd0dgFpJqzQOHASEwoum16zTru-Q/edit?fbclid=IwY2xjawMj-wxleHRuA2FlbQIxMQABHoO5_BHTOV28-ufpJNCuNPUobYkzAoWyd8KZ5YIuLm-DFfAzwjPgH0j_CDFC_aem_UpaAT7WNKQcPFC7ErXi56A&tab=t.0#heading=h.8nxo1yi98du9
